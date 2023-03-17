@@ -1,7 +1,6 @@
-# myTerraformPractice
-repo created through teraform automation
+# myTerraformPractice Repo created through teraform automation
 
-# Provider Info from which it's created
+Provider Info from which it's created
 
 Terraform Provider GitHub
 =========================
