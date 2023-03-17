@@ -6,3 +6,4 @@ gmap     = {k=22,h=48}
 nlist    = ["Kunj","Pathak"]
 oName    = "KunjPathak12"
 githubToken = "yourGithubAccessToken"
+//don't forget to do terraform apply -var-file filename.tfvars while running
